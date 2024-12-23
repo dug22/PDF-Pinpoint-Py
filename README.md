@@ -1,9 +1,10 @@
 # **About**
 <p align="justify">
-PDF Pinpoint Py is the Python variation of PDF Pinpoint. You can find the original repository here [PDF Pinpoint](https://github.com/dug22/PDF-Pinpoint)
-As previously stated, PDF Pinpoint Py is a small-scale and simple local chatbot tool powered by retrieval-augmented generation (RAG). It leverages large language models to process and train on multiple PDF documents, 
-enabling users to efficiently find the answers they're looking for across various PDF documents. 
+  PDF Pinpoint Py is the Python variation of PDF Pinpoint. 
+  You can find the original repository <a href="https://github.com/dug22/PDF-Pinpoint" target="_blank">here</a>. 
+  As previously stated, PDF Pinpoint Py is a small-scale and simple local chatbot tool powered by retrieval-augmented generation (RAG). It leverages large language models to process and train on multiple PDF documents, enabling users to efficiently find the answers they're looking for across various PDF documents.
 </p>
+
 
 # Getting Started 
 ### **Prerequisites**
